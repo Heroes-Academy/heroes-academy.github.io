@@ -3,9 +3,7 @@ title: HEROES Academy Github page
 layout: default
 ---
 
-# HEROES Academy
-
-## Welcome
+# Welcome
 
 [HEROES Academy](http://heroesgifted.org) is an organization dedicated to enrichment the minds of advanced students.  This Github page is intended to supplement the courses being offered.
 
