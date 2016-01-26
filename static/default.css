@@ -1,0 +1,24 @@
+body {
+    margin: 0;
+    padding: 0;
+    background: #FFF;
+    font: 20px;
+}
+
+.container {
+    width=90%;
+    max-width: 800px;
+    margin: 0 auto;
+}
+
+header {
+  background: rgba(0, 0, 0, 0.1);
+  width: 100%;
+  border-bottom: 1px dashed #b5e853;
+  padding: 20px 0;
+  margin: 0 0 40px 0;
+}
+
+main_body {
+    margin: 20px;
+}
