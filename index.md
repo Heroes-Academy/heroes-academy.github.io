@@ -1,3 +1,8 @@
+---
+title: HEROES Academy Github page
+layout: default
+---
+
 # HEROES Academy
 
 ## Welcome
