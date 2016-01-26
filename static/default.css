@@ -2,13 +2,17 @@ body {
     margin: 0;
     padding: 0;
     background: #FFF;
-    font: 20px;
+    font: 16px;
 }
 
 .container {
     width=90%;
-    max-width: 800px;
+    max-width: 700px;
     margin: 0 auto;
+}
+
+.container h2 {
+    font: 12px;
 }
 
 header {
@@ -21,4 +25,6 @@ header {
 
 main_body {
     margin: 20px;
+    width: 80;
+    max-width: 500px;
 }
