@@ -10,9 +10,9 @@ layout: default
 This Github page is intended to supplement the courses being offered.
 
 ### Current courses with content on github:
-1. [Intro to AI: Agents and Games](http://ai-winter-2016.readthedocs.org/en/latest/index.html)
-2. [Data Structures](http://ai-winter-2016.readthedocs.org/en/latest/index.html)
-3. [Introduction to Python](http://intropython-winter-2016.readthedocs.org/en/latest/)
+1. [Intro to AI: Agents and Games](http://ai.hacs.club)
+2. [Data Structures](http://ds.hacs.club)
+3. [Introduction to Python](http://intro.hacs.club)
 
 
 # Why is Computer Science awesome?  
