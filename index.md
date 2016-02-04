@@ -5,7 +5,7 @@ layout: default
 
 # Welcome
 
-[HEROES Academy](http://heroesgifted.org) is an organization dedicated to enrichment the minds of advanced students.  
+[HEROES Academy](http://heroesgifted.org) is an organization dedicated to enriching the minds of advanced students.  
 
 This Github page is intended to supplement the courses being offered.
 
