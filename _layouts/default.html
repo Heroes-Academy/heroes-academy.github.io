@@ -5,15 +5,26 @@
 </head>
 <body>
 <header>
-      <div class="container">
-        <h1>HEROES Academy</h1>
-        <h2>The Github page for Computer Science enrichment at HEROES</h2>
 
-        <section id="links">
-          <a href="https://github.com/heroes-academy/heroes-academy.github.io" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
+    <div class='heroes_header'>
+    <div id='logomain'>
+     <a href='http://njgifted.org'>
+     <img src="static/logo-main.png" width='156' height='164'>
+     </a>
+     </div>
+
+      <div class="container">
+        <h1>Computer Science @ HEROES Academy</h1>
+        <h2>{{ page.title }}
+      </div>
       </div>
     </header>
+    <div id='menu'><div id='btn-container'>
+        <a href="http://njgifted.org" id='heroes_home' class='btn'>
+        HEROES Academy Homepage</a>
+        <a href='https://github.com/Heroes-Academy' id='github' class='btn'>
+        Our Github Repositories</a>
+    </div></div>
 <div id='main_body'>
 {{ content }}
 </div>
