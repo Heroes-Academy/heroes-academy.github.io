@@ -89,7 +89,8 @@ a.btn:visited {
 .infobox {
   border-left: 1px solid rgba(220,27,33,1);
   padding: 10px;
-  margin: 10px;
+  margin: 10px auto;
+  max-width: 700px;
 }
 
 h1.infobox {
@@ -109,9 +110,12 @@ h2 {
   border: 1px solid #000;
   border-left: 3px solid rgba(220,27,33,1);
   padding: 10px;
-  margin: 10px;
+  margin: 10px auto;
 }
 
+.turtle.pane {
+  width: 100%;
+}
 
 ul.pane {
     list-style-type: none;
@@ -125,13 +129,13 @@ ul.pane li {
 
 section {
   border-bottom: 4px dashed rgba(220,27,33,1);
-  margin: 10px 0;
+  margin: 10px auto;
   padding: 10px 0 30px 0;
+  max-width: 700px;
 
 }
 
 #main_body {
     width: 90%;
-    max-width: 700px;
     margin: 0 auto;
 }
