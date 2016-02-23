@@ -1,5 +1,5 @@
 # HEROES Academy Github page
 
-View this page [here](http://heroes-academy.github.io) or [here](http://heroes.ada.sh).  
+View this page [here](http://heroes-academy.github.io) or [here](http://cs.njgifted.org).  
 
-Also, check out [HEROES Academy](http://heroesgifted.org)!
+Also, check out [HEROES Academy](http://njgifted.org)!
